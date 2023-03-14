@@ -7,7 +7,7 @@
 - 💬 Ask me about Java, C++, and Python.
 - 📫 You can reach me at maxime.heurtevent@icloud.com in French, English, and Indonesian.
 
-### Badge
+### Badges
 ![Profile views](https://komarev.com/ghpvc/?username=Maxime-Hrt&color=brightgreen)
 
 Thank you for visiting my profile!
