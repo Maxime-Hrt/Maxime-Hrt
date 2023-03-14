@@ -1,12 +1,13 @@
-# Hi there 👋, I'm Maxime Heurtevent!
+## Hi there 👋, I'm Maxime Heurtevent!
 
-![Profile views](https://komarev.com/ghpvc/?username=Maxime-Hrt&color=brightgreen)
-
-## About me
+### About me
 - 🎓 Currently studying at ECE Paris
 - 🔭 I’m currently working on analyzing Malaysian agricultural productions.
 - 🌱 I’m currently learning Flask framework.
 - 💬 Ask me about Java, C++, and Python.
 - 📫 You can reach me at maxime.heurtevent@icloud.com in French, English, and Indonesian.
+
+### Badge
+![Profile views](https://komarev.com/ghpvc/?username=Maxime-Hrt&color=brightgreen)
 
 Thank you for visiting my profile!
