@@ -3,7 +3,7 @@
 ### About me
 - 🎓 Currently studying at ECE Paris
 - 🔭 I’m currently working on analyzing Malaysian agricultural productions.
-- 🌱 I’m currently learning Flask framework.
+- 🌱 I’m currently learning Swift.
 - 💬 Ask me about Java, C++, and Python.
 - 📫 You can reach me at maxime.heurtevent@icloud.com in French, English, or Indonesian.
 
