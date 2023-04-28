@@ -5,7 +5,7 @@
 ### About me
 - 🎓 Currently studying at ECE Paris
 - 🔭 I’m currently working on analyzing Malaysian agricultural productions.
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning React.
 - 💬 Ask me about Java, C++, and Python.
 - 📫 You can reach me at [maxime.heurtevent@icloud.com](mailto:maxime.heurtevent@icloud.com) in French, English, or Indonesian.
 
