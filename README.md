@@ -38,6 +38,4 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Maxime-Hrt&color=brightgreen)
 
-<a href="http://www.github.com/Maxime-Hrt"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Maxime-Hrt&bg_color=181824&color=ffffff&line=facc15&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 Thank you for visiting my profile!
