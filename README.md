@@ -1,12 +1,12 @@
-## Hi there 👋, I'm Maxime Heurtevent!
+## Hi there 👋, I'm Maxime!
 <!--Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Maxime Heurtevent!
 ============================================================================================================================== -->
 
 ### About me
 - 🎓 Currently studying at ECE Paris.
 - 🔭 I’m currently working on a french language app in indonesian.
-- 🌱 I’m currently learning Golang.
-- 💬 Ask me about Java, C++, Typescript and Python.
+- 🌱 I’m currently learning Go Templ.
+- 💬 Ask me about Java, Javascript, Go or Python.
 - 📫 You can reach me at [maxime.heurtevent@icloud.com](mailto:maxime.heurtevent@icloud.com) in French, English, or Indonesian.
 
 ### Skills
@@ -25,6 +25,7 @@
   <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
 ### Socials
