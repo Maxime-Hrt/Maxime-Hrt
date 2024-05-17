@@ -4,7 +4,7 @@
 
 ### About me
 - 🎓 Currently studying at ECE Paris.
-- 🔭 I’m currently working on a french language app in indonesian.
+- 🔭 I’m currently working at FlashAd.
 - 🌱 I’m currently learning Go Templ.
 - 💬 Ask me about Java, Javascript, Go or Python.
 - 📫 You can reach me at [maxime.heurtevent@icloud.com](mailto:maxime.heurtevent@icloud.com) in French, English, or Indonesian.
