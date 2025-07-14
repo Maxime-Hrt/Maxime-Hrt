@@ -3,9 +3,8 @@
 ============================================================================================================================== -->
 
 ### About me
-- 🎓 Currently studying at ECE Paris.
+- 🎓 Fresh graduated software engineer from ECE Paris.
 - 🔭 I’m currently working at Sunfu.
-- 🌱 I’m currently learning to build cross platform app with Kotlin.
 - 💬 Ask me about Go, NodeJS, Java or Python.
 - 📫 You can reach me at [maxime.heurtevent@icloud.com](mailto:maxime.heurtevent@icloud.com) in French, English, or Indonesian.
 
