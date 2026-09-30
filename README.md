@@ -2,12 +2,6 @@
 <!--Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Maxime Heurtevent!
 ============================================================================================================================== -->
 
-### About me
-- 🎓 Fresh graduated software engineer from ECE Paris.
-- 🔭 I’m currently working at Sunfu.
-- 💬 Ask me about Go, NodeJS, Java or Python.
-- 📫 You can reach me at [maxime.heurtevent@icloud.com](mailto:maxime.heurtevent@icloud.com) in French, English, or Indonesian.
-
 <!-- ### Skills -->
 
 <!--p>
@@ -24,12 +18,10 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p -->
 
-### Socials
-
-<p align="left"> <!--a href="https://www.github.com/Maxime-Hrt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a --> <a href="https://www.linkedin.com/in/maxime-heurtevent-a03b39223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
+<!--p>
 ### Badges
 
 ![Profile views](https://komarev.com/ghpvc/?username=Maxime-Hrt&color=brightgreen)
+</p-->
 
 Thank you for visiting my profile!
